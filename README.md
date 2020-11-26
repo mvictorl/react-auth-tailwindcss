@@ -1,5 +1,15 @@
 # Getting Started with Create React App
 
+
+https://blog.logrocket.com/user-authentication-firebase-react-apps/
+https://www.smashingmagazine.com/2020/02/tailwindcss-react-project/
+https://blog.bitsrc.io/react-router-vs-reach-router-d26fe706d8db
+
+https://learn.javascript.ru/courses/advreact
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
